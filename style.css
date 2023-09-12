@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.container {
+    background: url(background-photos/clock2jpg.jpg);
+    color: white;
+    background-size: cover;
+    background-clip: content-box;
+
+}
